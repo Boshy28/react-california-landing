@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-california-landing/static/css/main.41cbc195.css",
+    "main.js": "/react-california-landing/static/js/main.ca42de7e.js",
+    "static/media/promophones.png": "/react-california-landing/static/media/promophones.6ba3dd2b11235fbc3f1f.png",
+    "static/media/laptopBox.png": "/react-california-landing/static/media/laptopBox.370540dc302d00612fc4.png",
+    "static/media/Inter-Medium.woff": "/react-california-landing/static/media/Inter-Medium.484bd6e66988b594f558.woff",
+    "static/media/Inter-Regular.woff": "/react-california-landing/static/media/Inter-Regular.f3ce705f806c10eb6e2d.woff",
+    "static/media/card4.png": "/react-california-landing/static/media/card4.422a5d6640d85643e159.png",
+    "static/media/neverMiss.jpg": "/react-california-landing/static/media/neverMiss.73d0e0f11019c83cd6a3.jpg",
+    "static/media/watchBox.png": "/react-california-landing/static/media/watchBox.9ee349de084c41a29bed.png",
+    "static/media/Inter-Medium.woff2": "/react-california-landing/static/media/Inter-Medium.d4b5441320ecab87d64a.woff2",
+    "static/media/phoneBox.png": "/react-california-landing/static/media/phoneBox.6da67c405cefc84eed72.png",
+    "static/media/Inter-Regular.woff2": "/react-california-landing/static/media/Inter-Regular.ac03a6de9ea313009257.woff2",
+    "static/media/tabletBox.png": "/react-california-landing/static/media/tabletBox.d86d40551b3295ff05b1.png",
+    "static/media/card3.png": "/react-california-landing/static/media/card3.9e3d8b885e7c10b2250d.png",
+    "static/media/bestSelling.png": "/react-california-landing/static/media/bestSelling.3253ff29ffb9d89c8c46.png",
+    "static/media/card2.png": "/react-california-landing/static/media/card2.5c8bc62f47e87c7750ce.png",
+    "static/media/ideasPlace.jpg": "/react-california-landing/static/media/ideasPlace.e3bae720baa4c22cb9c6.jpg",
+    "static/media/ReadexPro-Medium.woff": "/react-california-landing/static/media/ReadexPro-Medium.d36d8e8bc376ea5d25bf.woff",
+    "static/media/ReadexPro-Light.woff": "/react-california-landing/static/media/ReadexPro-Light.0aa4cf44ba7a83b2c32f.woff",
+    "static/media/card1.png": "/react-california-landing/static/media/card1.090c588e55448b4953d6.png",
+    "static/media/ReadexPro-Regular.woff": "/react-california-landing/static/media/ReadexPro-Regular.e3cb1d4453b073b906c8.woff",
+    "static/media/everyProduct.png": "/react-california-landing/static/media/everyProduct.220aa8a367b0aae677c0.png",
+    "static/media/ReadexPro-Medium.woff2": "/react-california-landing/static/media/ReadexPro-Medium.f20945490cb3ba083a4e.woff2",
+    "static/media/ReadexPro-Light.woff2": "/react-california-landing/static/media/ReadexPro-Light.b7129192f2e2f00e0ea8.woff2",
+    "static/media/ReadexPro-Regular.woff2": "/react-california-landing/static/media/ReadexPro-Regular.e3b06ec37673e1e829a9.woff2",
+    "static/media/latestGreatest.png": "/react-california-landing/static/media/latestGreatest.1d69e27e114b39b7010e.png",
+    "index.html": "/react-california-landing/index.html",
+    "static/media/search.svg": "/react-california-landing/static/media/search.0ee87003398e54e9520dc5ff96234941.svg",
+    "main.41cbc195.css.map": "/react-california-landing/static/css/main.41cbc195.css.map",
+    "main.ca42de7e.js.map": "/react-california-landing/static/js/main.ca42de7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41cbc195.css",
+    "static/js/main.ca42de7e.js"
+  ]
+}
